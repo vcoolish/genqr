@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+# This script generates trust qr codes
+# Prerequisite install via pip
+# pip(3) install myqr(or MyQR)
+
+set -e
+
+counter=0
+while IFS= read -r line; do
+    counter=$(($counter+1))
+    myqr $line -p logo.png -c -v 10 -n $counter.png -d output
+done < input.txt
