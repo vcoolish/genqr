@@ -17,3 +17,4 @@ To print QR codes with description:
 2. Print description image as 9 copies per page on reverse side of page
 3. Cut it and use
 
+[](https://gfycat.com/tiredembellishedcanary)
