@@ -14,7 +14,7 @@ Prerequisites:
 To print QR codes with description:
 
 1. Use Macos Preview App with layout 9 images per page 
-2. Print description image as 9 copies per page on reverse side of page
+2. Print description image as 9 copies per page and 50% scale on reverse side of page
 3. Cut it and use
 
-[](https://gfycat.com/tiredembellishedcanary)
+<a href="https://imgflip.com/gif/3q8i8g"><img src="https://i.imgflip.com/3q8i8g.gif" title="made at imgflip.com"/></a>
