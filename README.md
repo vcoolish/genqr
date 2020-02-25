@@ -1,6 +1,10 @@
 # Short description
 Simple bulk QR code generation script that uses [MyQR](https://github.com/sylnsfar/qrcode) for qr code generation
 
+Prerequisites:
+1. python >=3.5
+2. install via pip `pip3 install MyQR`
+
 #How to use
 
 1. Fill input.txt with qr data line by line
